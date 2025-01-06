@@ -8,8 +8,9 @@
 
 <h3>About me 👩:</h3>
 
-⚜️I consider myself a persevering and determined woman, passionate about technology and computer science.<br>
+👾Specializing in Back-End Development<br>
 🧑‍🎓I am a graduate of the Technical Professional Program in Software Development at INACAP<br>
+⚜️I consider myself a persevering and determined woman, passionate about technology and computer science.<br>
 💜I love learning and see every challenge in life an important opportunity to grow. <br>
 🌏 I'm from Chile, Working for the World<br>
 
@@ -67,6 +68,7 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 
 <h3>🤖Extras</h3>
